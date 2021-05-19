@@ -1,4 +1,4 @@
-package day3.Task2;
+package day3.Task3;
 
 public class FinancialAccounting extends TaxAccounting {
     private final int fixedEmployeeSalary = 200000;

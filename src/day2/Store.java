@@ -13,7 +13,7 @@ public class Store {
         this.countOfWorkers = countOfWorkers;
         this.name = name;
         this.phoneNum = phoneNum;
-        this.productNumbers = prodiuctNumbers;
+        this.productNumbers = productNumbers;
     }
 
     public void setCountOfWorkers(int countOfWorkers) {

@@ -1,9 +1,8 @@
-package day3.Task2;
+package day3.Task3;
 
 
-public class Accounting {
-    int countOfEmployers;
-    String departmentName;
+public class Accounting extends ItCompany {
+
 
     public int account(){
         return 0;

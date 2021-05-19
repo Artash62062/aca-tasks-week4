@@ -1,7 +1,8 @@
-package day3;
+package day3.Task1;
 
 public class Animal {
-    protected void eat() {
+    public String name;
+    protected void eat(String food) {
 
     }
 
