@@ -4,4 +4,6 @@ public class Marketing  extends ItCompany{
     public void marketing() {
         System.out.println("marketing method from Marketing Class");
     }
+
+    public Marketing(){}
 }
