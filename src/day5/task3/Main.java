@@ -27,7 +27,7 @@ public class Main {
                 return new Circle(shapeSize);
             case 1:
                 System.out.println("Generated new Rectangle");
-                return new Rectangle(shapeSize, random.nextInt() % 50);
+                return new Rectangle(shapeSize, Math.abs(random.nextInt() % 50));
             case 2:
                 System.out.println("Generated new Square");
                 return new Square(shapeSize);

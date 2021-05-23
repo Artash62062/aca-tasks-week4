@@ -7,16 +7,6 @@ public class Square extends Rectangle implements Shape {
     }
 
     @Override
-    public double area() {
-        return super.area();
-    }
-
-    @Override
-    public double perimeter() {
-        return super.perimeter();
-    }
-
-    @Override
     public void printType() {
         System.out.println("The Type of Shape is Square");
     }
